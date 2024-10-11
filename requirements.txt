@@ -4,3 +4,4 @@ python-multipart==0.0.5
 retinaface
 opencv-python-headless==4.5.3.56
 Pillow==8.3.2
+numpy==1.21.0
