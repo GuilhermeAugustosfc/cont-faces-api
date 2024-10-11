@@ -1,7 +1,7 @@
 fastapi==0.68.0
 uvicorn==0.15.0
 python-multipart==0.0.5
-retinaface==0.0.13
+retinaface
 opencv-python-headless==4.5.3.56
 numpy==1.21.2
 Pillow==8.3.2
