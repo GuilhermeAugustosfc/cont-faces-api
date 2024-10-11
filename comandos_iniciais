@@ -1,0 +1,2 @@
+pip install -r requirements.txt -- instalar dependencias
+uvicorn main:app --reload -- rodar o projeto
